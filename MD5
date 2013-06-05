@@ -1,0 +1,12 @@
+07347e5ceaa04333cc1e2fe34911a5b3 *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+5077fb5bd4b9f328ff55fa5b803b9758 *R/bpsm.R
+985bda3f1275e1522c97f0f031ba4471 *R/bpsr.R
+6cbd883b1c93c00634dacda56acf75d7 *R/modelpsm.R
+c0bdd9dcc8974de29fef1c436b39823f *R/modelpsr.R
+a4b77391bfec7d3cb4a144dc74542f97 *R/sortps.R
+a952d27f297389f189c40690829306bd *man/bpsm.Rd
+48e2bfb9ce6cd0de31578879ad6ae745 *man/bpsr.Rd
+5dab6cb73f2a32dff013f92fb415e1e4 *man/modelpsm.Rd
+c102247049a8dc2e519a009369228149 *man/modelpsr.Rd
+cc100a4b95d97fb136a926f6606dc963 *man/sortps.Rd
